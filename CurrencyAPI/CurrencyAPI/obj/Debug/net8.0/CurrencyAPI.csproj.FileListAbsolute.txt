@@ -1,0 +1,7 @@
+C:\Users\pancva7\source\test\CurrencyAPI\CurrencyAPI\obj\Debug\net8.0\CurrencyAPI.csproj.AssemblyReference.cache
+C:\Users\pancva7\source\test\CurrencyAPI\CurrencyAPI\obj\Debug\net8.0\CurrencyAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pancva7\source\test\CurrencyAPI\CurrencyAPI\obj\Debug\net8.0\CurrencyAPI.AssemblyInfoInputs.cache
+C:\Users\pancva7\source\test\CurrencyAPI\CurrencyAPI\obj\Debug\net8.0\CurrencyAPI.AssemblyInfo.cs
+C:\Users\pancva7\source\test\CurrencyAPI\CurrencyAPI\obj\Debug\net8.0\CurrencyAPI.csproj.CoreCompileInputs.cache
+C:\Users\pancva7\source\test\CurrencyAPI\CurrencyAPI\obj\Debug\net8.0\CurrencyAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pancva7\source\test\CurrencyAPI\CurrencyAPI\obj\Debug\net8.0\CurrencyAPI.MvcApplicationPartsAssemblyInfo.cache
